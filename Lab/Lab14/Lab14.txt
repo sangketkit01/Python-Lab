@@ -1,0 +1,8 @@
+This's a sample text file for testing word countn.
+It contains multiple lines and words.
+You can use this sample text to test your word counting function.
+Ensure that it handles multiple lines and insensitivity to letter case.
+The 7 quick brown fox jumps over the 99 lazy dog.
+The dog isn't amused.
+Count the words in this text and verify the result.
+The end.

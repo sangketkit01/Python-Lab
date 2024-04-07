@@ -1,0 +1,10 @@
+Product ID, Category, Name, Price, Quantity
+101, Camping, Mat, 25.99, 50
+102, Kitchen, Plastic Box, 15.99, 100
+103, Kitchen, Paper Dish, 75
+104, Kitchen, Wood Chopsticks, 5.99, 20
+105, Toilet, Tissue Paper, 3.99, 105
+106, Toilet, Shampoo, 6.99, 80
+107, Living room, Vase, 12.99, 45
+108, Living room, room perfume, 4.99, 40
+109, Kitchen, Spoon, 1.99, 230

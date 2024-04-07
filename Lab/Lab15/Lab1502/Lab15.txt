@@ -1,0 +1,16 @@
+Receipt_ID#List_of_Fruits#Total_Price
+12345#Apple,Banana,Orange#฿250
+23456#Grapes,Watermelon#฿150
+34567#Strawberry,Mango,Pineapple#฿320
+45678#Kiwi,Lychee#฿180
+56789#Coconut,Pineapple,Raspberry#฿210
+Kiwi,Raspberry,Banana#฿175
+78901#Coconut,Banana,Orange#฿190
+89012#Guava,Banana,Watermelon#฿270
+90123#Coconut,Banana#฿200
+12346#Watermelon,Coconut#฿130
+23457#Grapes,Pineapple#฿140
+34568#Guava,Lychee,Mango#฿280
+45679#Lychee,Mango,Raspberry#฿195
+56780#Apple,Orange#฿165
+67891#Grapes,Strawberry#฿300

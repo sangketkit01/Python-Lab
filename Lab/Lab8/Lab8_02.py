@@ -1,0 +1,6 @@
+alpha = input("")
+A = alpha.count("A")
+B = alpha.count("B")
+print("Total A :",A)
+print("Total B :",B)
+print("Another : {}".format(len(alpha)-(A+B)))
