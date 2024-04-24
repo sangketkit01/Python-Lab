@@ -1,8 +1,0 @@
-TR0074     Truck
-TR0075     Truck
-AX001     Sedan
-AS002     Van
-TS009     Van
-TR010     Van
-VR0023     Van
-AC110     Sedan
