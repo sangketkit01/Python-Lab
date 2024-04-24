@@ -1,5 +1,6 @@
 from typing import Tuple
-def most_word(address : str) -> Tuple[str,int] :
+
+def most_word(address : str) -> Tuple[str,float] :
     file = open(address)
     most = {}
     for line in file.readlines() :
